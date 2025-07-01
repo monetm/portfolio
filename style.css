@@ -1,0 +1,40 @@
+body {
+  font-family: 'Inter', Arial, sans-serif;
+  background-color: #f8f9fa;
+  color: #222;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 700;
+}
+
+.navbar-brand {
+  letter-spacing: 1px;
+}
+
+header {
+  background: linear-gradient(90deg, #f8fafc 60%, #e3f0ff 100%);
+}
+
+section {
+  margin-bottom: 2rem;
+}
+
+.card-title {
+  color: #0d6efd;
+}
+
+.btn-primary {
+  background-color: #0d6efd;
+  border: none;
+  transition: background 0.2s;
+}
+
+.btn-primary:hover {
+  background-color: #0b5ed7;
+}
+
+footer {
+  font-size: 0.95rem;
+  color: #888;
+}
